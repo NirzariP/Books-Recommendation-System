@@ -43,3 +43,10 @@ def recommend(book_name):
 
 # Example usage
 recommend('1984')
+
+## Screenshots
+<p float="left">
+  <img src="UI/image1.png" width="30%" />
+  <img src="UI/image2.png" width="30%" />
+  <img src="UI/image3.png" width="30%" />
+</p>
