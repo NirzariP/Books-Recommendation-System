@@ -15,6 +15,14 @@ The dataset used for this project includes three CSV files: books.csv, users.csv
 ## Libraries Used
 
 numpy, pandas, pickle, cosine_similarity
+
+## Screenshots
+<p float="left">
+  <img src="UI/image1.png" width="30%" />
+  <img src="UI/image2.png" width="30%" />
+  <img src="UI/image3.png" width="30%" />
+</p>
+
 ## Usage/Examples
 Popularity Based Recommendations:
 The popularity-based recommender system recommends books based on their popularity among all users.
@@ -44,9 +52,3 @@ def recommend(book_name):
 # Example usage
 recommend('1984')
 
-## Screenshots
-<p float="left">
-  <img src="UI/image1.png" width="30%" />
-  <img src="UI/image2.png" width="30%" />
-  <img src="UI/image3.png" width="30%" />
-</p>
