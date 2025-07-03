@@ -12,6 +12,11 @@ This is a book recommendation system that provides recommendations based on popu
 ## Datasets
 
 The dataset used for this project includes three CSV files: books.csv, users.csv, and ratings.csv. These files contain information about books, users, and ratings, respectively.
+
+The dataset used for training the machine learning model is available on Kaggle. You can access the dataset by following this link:
+
+https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+
 ## Libraries Used
 
 numpy, pandas, pickle, cosine_similarity
